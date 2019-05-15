@@ -16,7 +16,7 @@ import java.util.Arrays
 
 fun main(args: Array<String>) {
     val bot = bot {
-        token = "MY_API_KEY"
+        token = "850140188:AAEWX5X43-ZqCplmN6jnkpnd0i3W9QOQFuY"
         dispatch {
             text { bot, update ->
                 val text = (update.message?.text ?: "Hello, World!")
@@ -35,7 +35,7 @@ fun main(args: Array<String>) {
 
         dispatch {
             command("start") { bot, update ->
-                val result = bot.sendMessage(chatId = update.message!!.chat.id, text = "Hi there!")
+                val result = bot.sendMessage(chatId = update.message!!.chat.id, text = "Type how much time to wait")
             }
         }
     }
