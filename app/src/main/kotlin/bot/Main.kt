@@ -16,7 +16,7 @@ import java.util.Arrays
 
 fun main(args: Array<String>) {
     val bot = bot {
-        token = "850140188:AAEWX5X43-ZqCplmN6jnkpnd0i3W9QOQFuY"
+        token = "MY_API_KEY" // TODO: replace with original
         dispatch {
             text { bot, update ->
                 val text = (update.message?.text ?: "Hello, World!")

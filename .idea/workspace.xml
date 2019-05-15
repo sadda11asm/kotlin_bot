@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1df8ef5-cd9a-4ee2-a4f1-6209306f80cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/bot/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/bot/Main.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -59,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/bot/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="240">
+              <caret line="16" column="1" selection-start-line="16" selection-end-line="17" />
               <folding>
                 <element signature="e#13#356#0" expanded="true" />
               </folding>
@@ -254,16 +253,15 @@
       <option name="presentableId" value="Default" />
       <updated>1557864379243</updated>
       <workItem from="1557864382824" duration="2793000" />
-      <workItem from="1557906160817" duration="7926000" />
+      <workItem from="1557906160817" duration="8726000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10719000" />
+    <option name="totallyTimeSpent" value="11519000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -274,7 +272,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.053012047" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20240964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -352,8 +350,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/kotlin/bot/Main.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="240">
+          <caret line="16" column="1" selection-start-line="16" selection-end-line="17" />
           <folding>
             <element signature="e#13#356#0" expanded="true" />
           </folding>
